@@ -17,23 +17,28 @@ Para utilizar o projeto como desenvolvedor siga os seguintes passos:
 
 3. Para utilizar o usuário de administrador da aplicação é importante usar o Insomnia ou o Beekeeper para criar um usuário para o administrador, pois não existe um local, uma rota na aplicação pra criar esse usuário de administrador, existe apenas as rotas para criar contas para o cliente na aplicação - a rota para ser utilizada no Insomnia ou no Beekeeper para criar a conta do administrador é "localhost:3333/adm" e os dados precisam ser inseridos em formato JSON (segue exemplo abaixo): 
 
-Conta usuário:
+CONTA DO CLIENTE:
 
-email:
+email do cliente:
 	
 	teste@teste.com"
 	
-senha usuário:
+senha do cliente:
 	
 	123456
 	
 
-Conta administrador {
 
+CONTA DO ADMINISTRADOR:
+
+email do administrador:
 	
-	"email": "pablomartins1515@hotmail.com",
-	"password": "123456"
-}
+	pablomartins1515@hotmail.com
+	
+senha administrador:
+	
+	123456
+	
 
 
 site publicado em: https://frontend-explorer.vercel.app/
