@@ -26,7 +26,10 @@ email do cliente:
 senha do cliente:
 	
 	123456
-	
+
+
+----
+
 
 
 CONTA DO ADMINISTRADOR:
