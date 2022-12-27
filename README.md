@@ -19,20 +19,14 @@ Para utilizar o projeto como desenvolvedor siga os seguintes passos:
 
 Conta usuário:
 
-	"email":{
+email:
 	
 	teste@teste.com"
 	
-	},
-	
-	"password": {
+senha usuário:
 	
 	123456
 	
-	}
-
-
-
 
 Conta administrador {
 
