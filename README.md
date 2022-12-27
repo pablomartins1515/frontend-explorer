@@ -22,3 +22,5 @@ Para utilizar o projeto como desenvolvedor siga os seguintes passos:
 	"email": "teste@teste.com",
 	"password": "123456"
 }
+
+site publicado em: https://frontend-explorer.vercel.app/
